@@ -721,6 +721,9 @@
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AI.Navigation">
+      <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
     </Reference>
@@ -793,6 +796,9 @@
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AI.Navigation.Updater">
+      <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
@@ -814,11 +820,17 @@
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor">
+      <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+      <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
       <HintPath>D:\gambare\Roll-a-ball\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
